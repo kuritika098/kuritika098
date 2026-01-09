@@ -32,15 +32,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaurRitika&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-### **🔥 Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurRitika&layout=compact&theme=radical" />
-</p>
 
 ### 📈 GitHub Activity Graph
 <p align="center">
